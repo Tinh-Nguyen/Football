@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: 900bc8b8369a5714c9733fa2829696b6
+timeCreated: 1506004338
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: chupbongtaicho copy_0
+    21300002: chupbongtaicho copy_1
+    21300004: chupbongtaicho copy_2
+    21300006: chupbongtaicho copy_3
+    21300008: chupbongtaicho copy_4
+    21300010: chupbongtaicho copy_5
+    21300012: chupbongtaicho copy_6
+    21300014: chupbongtaicho copy_7
+    21300016: chupbongtaicho copy_8
+    21300018: chupbongtaicho copy_9
+    21300020: chupbongtaicho copy_10
+    21300022: chupbongtaicho copy_11
+    21300024: chupbongtaicho copy_12
+    21300026: chupbongtaicho copy_13
+    21300028: chupbongtaicho copy_14
+    21300030: chupbongtaicho copy_15
+    21300032: chupbongtaicho copy_16
+    21300034: chupbongtaicho copy_17
+    21300036: chupbongtaicho copy_18
+    21300038: chupbongtaicho copy_19
+    21300040: chupbongtaicho copy_20
+    21300042: chupbongtaicho copy_21
+    21300044: chupbongtaicho copy_22
+    21300046: chupbongtaicho copy_23
+    21300048: chupbongtaicho copy_24
+    21300050: chupbongtaicho copy_25
+    21300052: chupbongtaicho copy_26
+    21300054: chupbongtaicho copy_27
+    21300056: chupbongtaicho copy_28
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chupbongtaicho copy_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 650
+        width: 141
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chupbongtaicho copy_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 673
+        width: 131
+        height: 204
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chupbongtaicho copy_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 683
+        width: 144
+        height: 198
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chupbongtaicho copy_3
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 683
+        width: 161
+        height: 195
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chupbongtaicho copy_4
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 691
+        width: 174
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chupbongtaicho copy_5
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 701
+        width: 191
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chupbongtaicho copy_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524
+        width: 187
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chupbongtaicho copy_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 545
+        width: 195
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chupbongtaicho copy_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 576
+        width: 220
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chupbongtaicho copy_9
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 583
+        width: 224
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chupbongtaicho copy_10
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 582
+        width: 223
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chupbongtaicho copy_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 395
+        width: 252
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chupbongtaicho copy_12
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 405
+        width: 247
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chupbongtaicho copy_13
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 427
+        width: 240
+        height: 146
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chupbongtaicho copy_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 432
+        width: 242
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chupbongtaicho copy_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 234
+        width: 245
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chupbongtaicho copy_16
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 257
+        width: 250
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chupbongtaicho copy_17
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 289
+        width: 223
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chupbongtaicho copy_18
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 325
+        width: 226
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chupbongtaicho copy_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 137
+        width: 223
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chupbongtaicho copy_20
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 131
+        width: 197
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chupbongtaicho copy_21
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 155
+        width: 198
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chupbongtaicho copy_22
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 174
+        width: 197
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chupbongtaicho copy_23
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 187
+        width: 197
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chupbongtaicho copy_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 13
+        width: 197
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chupbongtaicho copy_25
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 6
+        width: 196
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chupbongtaicho copy_26
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 9
+        width: 197
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chupbongtaicho copy_27
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 10
+        width: 197
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chupbongtaicho copy_28
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 11
+        width: 197
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

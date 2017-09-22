@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: 48fceeaeb7095434383750562cb7c570
+timeCreated: 1506004131
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dungcho2_0
+    21300002: dungcho2_1
+    21300004: dungcho2_2
+    21300006: dungcho2_3
+    21300008: dungcho2_4
+    21300010: dungcho2_5
+    21300012: dungcho2_6
+    21300014: dungcho2_7
+    21300016: dungcho2_8
+    21300018: dungcho2_9
+    21300020: dungcho2_10
+    21300022: dungcho2_11
+    21300024: dungcho2_12
+    21300026: dungcho2_13
+    21300028: dungcho2_14
+    21300030: dungcho2_15
+    21300032: dungcho2_16
+    21300034: dungcho2_17
+    21300036: dungcho2_18
+    21300038: dungcho2_19
+    21300040: dungcho2_20
+    21300042: dungcho2_21
+    21300044: dungcho2_22
+    21300046: dungcho2_23
+    21300048: dungcho2_24
+    21300050: dungcho2_25
+    21300052: dungcho2_26
+    21300054: dungcho2_27
+    21300056: dungcho2_28
+    21300058: dungcho2_29
+    21300060: dungcho2_30
+    21300062: dungcho2_31
+    21300064: dungcho2_32
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dungcho2_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1501
+        width: 115
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1501
+        width: 111
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1501
+        width: 107
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1502
+        width: 103
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_4
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1502
+        width: 103
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1252
+        width: 103
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1252
+        width: 104
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_7
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1252
+        width: 103
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1252
+        width: 103
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_9
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1252
+        width: 103
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1003
+        width: 102
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_11
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1003
+        width: 102
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_12
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1003
+        width: 103
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_13
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1003
+        width: 103
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1003
+        width: 103
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 757
+        width: 107
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 757
+        width: 111
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_17
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 757
+        width: 115
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_18
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 757
+        width: 111
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_19
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 757
+        width: 107
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 511
+        width: 102
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_21
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 511
+        width: 102
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_22
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 510
+        width: 102
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_23
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 510
+        width: 104
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_24
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 511
+        width: 103
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 262
+        width: 103
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_26
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 262
+        width: 103
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_27
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 262
+        width: 144
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_28
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 261
+        width: 144
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 12
+        width: 144
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 8
+        width: 144
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_31
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 9
+        width: 144
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungcho2_32
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 10
+        width: 144
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: abcf14581e38f14429f8c1caf0c25992
+timeCreated: 1506005433
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: laoduoichupduocbanh_0
+    21300002: laoduoichupduocbanh_1
+    21300004: laoduoichupduocbanh_2
+    21300006: laoduoichupduocbanh_3
+    21300008: laoduoichupduocbanh_4
+    21300010: laoduoichupduocbanh_5
+    21300012: laoduoichupduocbanh_6
+    21300014: laoduoichupduocbanh_7
+    21300016: laoduoichupduocbanh_8
+    21300018: laoduoichupduocbanh_9
+    21300020: laoduoichupduocbanh_10
+    21300022: laoduoichupduocbanh_11
+    21300024: laoduoichupduocbanh_12
+    21300026: laoduoichupduocbanh_13
+    21300028: laoduoichupduocbanh_14
+    21300030: laoduoichupduocbanh_15
+    21300032: laoduoichupduocbanh_16
+    21300034: laoduoichupduocbanh_17
+    21300036: laoduoichupduocbanh_18
+    21300038: laoduoichupduocbanh_19
+    21300040: laoduoichupduocbanh_20
+    21300042: laoduoichupduocbanh_21
+    21300044: laoduoichupduocbanh_22
+    21300046: laoduoichupduocbanh_23
+    21300048: laoduoichupduocbanh_24
+    21300050: laoduoichupduocbanh_25
+    21300052: laoduoichupduocbanh_26
+    21300054: laoduoichupduocbanh_27
+    21300056: laoduoichupduocbanh_28
+    21300058: laoduoichupduocbanh_29
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 140
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 603
+        width: 171
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_2
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 603
+        width: 168
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_3
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 615
+        width: 181
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_4
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 619
+        width: 195
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_5
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 641
+        width: 168
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 413
+        width: 177
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 473
+        width: 174
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_8
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 479
+        width: 183
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 484
+        width: 148
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_10
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 456
+        width: 130
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_11
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 476
+        width: 160
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238
+        width: 164
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_13
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 249
+        width: 156
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_14
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 262
+        width: 143
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 276
+        width: 144
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_16
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 310
+        width: 182
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_17
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 302
+        width: 166
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 124
+        width: 181
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_19
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 130
+        width: 182
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_20
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 148
+        width: 182
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_21
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 169
+        width: 182
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_22
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 192
+        width: 182
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_23
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 195
+        width: 182
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 12
+        width: 182
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_25
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 21
+        width: 182
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_26
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 38
+        width: 182
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_27
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 55
+        width: 182
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_28
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 77
+        width: 182
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laoduoichupduocbanh_29
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 87
+        width: 182
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

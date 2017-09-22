@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: c2aa854f0d6c9914fa8ffd37786efe90
+timeCreated: 1506005856
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: laotren_0
+    21300002: laotren_1
+    21300004: laotren_2
+    21300006: laotren_3
+    21300008: laotren_4
+    21300010: laotren_5
+    21300012: laotren_6
+    21300014: laotren_7
+    21300016: laotren_8
+    21300018: laotren_10
+    21300020: laotren_11
+    21300022: laotren_9
+    21300024: laotren_12
+    21300026: laotren_13
+    21300028: laotren_14
+    21300030: laotren_15
+    21300032: laotren_16
+    21300034: laotren_17
+    21300036: laotren_18
+    21300038: laotren_19
+    21300040: laotren_20
+    21300042: laotren_21
+    21300044: laotren_22
+    21300046: laotren_23
+    21300048: laotren_24
+    21300050: laotren_25
+    21300052: laotren_26
+    21300054: laotren_27
+    21300056: laotren_28
+    21300058: laotren_29
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: laotren_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 922
+        width: 144
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laotren_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 896
+        width: 170
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laotren_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 888
+        width: 170
+        height: 261
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laotren_3
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 819
+        width: 145
+        height: 333
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laotren_4
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 810
+        width: 144
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laotren_5
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 801
+        width: 145
+        height: 352
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laotren_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 570
+        width: 144
+        height: 338
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laotren_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 542
+        width: 145
+        height: 337
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laotren_8
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 701
+        width: 203
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laotren_10
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 628
+        width: 209
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laotren_11
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 619
+        width: 203
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laotren_9
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 527
+        width: 206
+        height: 166
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laotren_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 347
+        width: 191
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laotren_13
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 336
+        width: 191
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laotren_14
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 344
+        width: 161
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laotren_15
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 345
+        width: 161
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laotren_16
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 360
+        width: 121
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laotren_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 227
+        width: 162
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laotren_19
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 223
+        width: 162
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laotren_20
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 190
+        width: 170
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laotren_21
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 195
+        width: 169
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laotren_22
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 195
+        width: 169
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laotren_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 164
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laotren_24
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 46
+        width: 177
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laotren_25
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 50
+        width: 179
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laotren_26
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 20
+        width: 122
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laotren_27
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 26
+        width: 114
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laotren_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 25
+        width: 113
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laotren_29
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 31
+        width: 114
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
